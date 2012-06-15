@@ -1,10 +1,11 @@
-# ipad-encoder-for-cron
+# ipad-encoder
 
-FIXME: write description
+Convert all media files in this directory for iPad (m4v) with Aristra transcoder.
 
 ## Usage
 
-FIXME: write
+lein uberjar
+java -jar ipad-encoder-1.0.0-SNAPSHOT.jar
 
 ## License
 
